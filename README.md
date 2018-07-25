@@ -2,7 +2,7 @@
 This python script, based on web scraping, fetches the score of the recent cricket matches using Beautiful soup library to scrape the data. 
 
 
-How to run
+# How to run
 
 Type in this command in terminal.
 
